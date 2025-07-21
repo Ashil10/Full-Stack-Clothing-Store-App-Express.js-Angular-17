@@ -34,7 +34,7 @@ A full-stack web application that simulates a simple clothing store interface, b
    ```
 3. Start the server:
    ```bash
-   node index.js
+   node server.js
    ```
    Server runs on `http://localhost:3000`
 
